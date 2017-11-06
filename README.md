@@ -8,6 +8,11 @@ yum install gcc bison bison-devel zlib-devel libmcrypt-devel mcrypt mhash-devel 
 
 传课apache
 https://chuanke.baidu.com/v1373478-236105-1727329.html
+苏勇
+https://chuanke.baidu.com/v1953475-146949-503761.html
 
 网易云课堂
 https://study.163.com/course/introduction.htm?courseId=991021#/courseDetail?tab=1
+
+51cto
+苏勇 http://edu.51cto.com/course/1394.html
